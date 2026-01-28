@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/victordibia/designing-multiagent-systems/main/images/bookcover.jpg" width="140" align="left" style="margin-right: 15px; margin-bottom: 10px;" alt="Designing Multi-Agent Systems book cover"/>
 </a>
 
-Research Software Engineer at Microsoft working at the intersection of Applied AI and HCI. I wrote a [book on AI agents](https://www.amazon.com/dp/B0G2BCQQJY)!
+I am a Principal Research Software Engineer at Microsoft working on Generative AI and Agents. I wrote the Designing Multi-Agent Systems book [[Digital PDF](https://gum.co/dmas) | [Amazon](https://www.amazon.com/dp/B0G2BCQQJY) | [Code](https://github.com/victordibia/designing-multiagent-systems)].
 
 **Projects:**
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
